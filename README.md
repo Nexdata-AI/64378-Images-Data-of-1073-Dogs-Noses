@@ -1,8 +1,10 @@
 # 64378-Images-Data-of-1073-Dogs-Noses
-https://www.datatang.ai/datasets/1051
+
 
 ## Description
 64,378 Images Data of 1,073 Dogs' Noses. The data includes indoor and outdoor scenes(the collection scene of the same dog didn't change). The data covers multiple dog types (such as Teddy, Labrador, Shiba Inu, etc.), and multiple lights. Segmentation annotation was done on the dog's nose. The data can be applied to dog face recognition, dog identification, etc.
+
+For more details, please refer to the link: https://bit.ly/3DU1jeG
 
 ## Data size
 1,073 dogs, 64,378 images
@@ -27,3 +29,6 @@ segmentation annotation on the dog's nose (noseprint)
 
 ## Application scenarios
 the dog's noseprint is analogous to human fingerprint, the data can be applied to dog face recognition, dog identification, etc
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
