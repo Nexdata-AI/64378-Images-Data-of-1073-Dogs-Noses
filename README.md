@@ -32,4 +32,4 @@ segmentation annotation on the dog's nose (noseprint)
 the dog's noseprint is analogous to human fingerprint, the data can be applied to dog face recognition, dog identification, etc
 
 # Licensing Information
-Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
+Commercial License
