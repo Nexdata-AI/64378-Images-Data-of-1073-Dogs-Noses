@@ -4,7 +4,7 @@
 ## Description
 64,378 Images Data of 1,073 Dogs' Noses. The data includes indoor and outdoor scenes(the collection scene of the same dog didn't change). The data covers multiple dog types (such as Teddy, Labrador, Shiba Inu, etc.), and multiple lights. Segmentation annotation was done on the dog's nose. The data can be applied to dog face recognition, dog identification, etc.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1051?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/computervision/1051?source=Github
 
 
 ## Data size
